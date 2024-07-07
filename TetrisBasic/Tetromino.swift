@@ -45,6 +45,7 @@ struct Tetromino {
             Tetromino(cells: [(0,2), (1,0), (1,1), (1,2)], color: .orange, origin: (3, 0)),  // J
             Tetromino(cells: [(0,0), (0,1), (1,1), (1,2)], color: .red, origin: (3, 0)),  // Z
             Tetromino(cells: [(0,1), (0,2), (1,0), (1,1)], color: .pink, origin: (3, 0))   // S
+            
         ]
         
         
