@@ -9,4 +9,5 @@ import SwiftUI
 
 struct Cell {
     var color: Color = .clear
+    
 }
