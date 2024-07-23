@@ -20,6 +20,8 @@ struct GameBoardView: View {
                 }
             }
         }
+        
+        
         .background(Color.gray.opacity(0.3))
         .border(Color.white, width: 2)
     }
