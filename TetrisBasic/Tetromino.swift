@@ -36,6 +36,8 @@ struct Tetromino {
         cells = cells.map { ($0.col, -$0.row) }
     }
     
+    
+    
     static func random() -> Tetromino {
         let tetrominoes: [Tetromino] = [
             Tetromino(cells: [(0,0), (0,1), (0,2), (0,3)], color: .blue, origin: (3, 0)),  // I
