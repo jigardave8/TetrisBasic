@@ -1,6 +1,6 @@
 # Tetris Game in SwiftUI
 
-![Tetris Game Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
+![Tetris Game Screenshot](screenshot.png)
 
 ## Overview
 
@@ -24,23 +24,23 @@ This project is a Tetris game developed for iOS using SwiftUI. It provides a cla
 1. Clone the repository:
    ```bash
    git clone https://github.com/jigardave8/TetrisBasic.git
+##
+
+## Build and run the project on a simulator or a physical device.
 
 
-##Build and run the project on a simulator or a physical device.
-
-
-##** Usage**
+##  Usage
 Start the game by tapping the "Start" button.
 Use the on-screen controls to move and rotate tetrominoes.
 Clear lines to score points and advance levels.
 
-**How to Play**
+## How to Play
 Move Left/Right: Use the respective buttons or swipe left/right.
 Rotate Tetromino: Tap the rotate button to change the orientation.
 Drop Tetromino: Tap the drop button to drop the tetromino faster.
 
 
-*Contributing*
+## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 Fork the repository.
@@ -49,12 +49,12 @@ Commit your changes.
 Push to the branch.
 Create a pull request.
 
-*License*
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-*Acknowledgements*
+## Acknowledgements
 Inspired by the classic Tetris game.
 Built using SwiftUI and Combine.
 
-*Contact*
+## Contact
 For any inquiries or feedback, please reach out to jdavenz8@gmail.com.
